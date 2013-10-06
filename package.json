@@ -7,6 +7,10 @@
   "engines": {
     "node": ">= 0.10 < 0.12"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jakobmattsson/jsonrpc-http-client-node.git"
+  },
   "scripts": {
     "pretest": "coffee -co lib src",
     "prepublish": "coffee -co lib src",
