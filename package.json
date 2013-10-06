@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-http-client-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JSONRPC client for node.js using HTTP",
   "author": "Jakob Mattsson <jakob.mattsson@gmail.com> (jakobmattsson.se)",
   "main": "./lib/client.js",
